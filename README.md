@@ -1,2 +1,3 @@
 # THEARPY MOO!!
+#### Socially Relevant Project (2024)
 In our dynamic world, managing emotions is crucial for overall well-being, yet many individuals struggle to navigate their emotional landscape effectively. To address this gap, this project introduces TherapyMoo,  an innovative web application designed to assist users in managing their emotions effectively. Through Natural Language Processing (NLP) techniques, TherapyMoo analyzes user input to identify emotional states and provides personalized suggestions for coping strategies. By addressing a wide range of emotions, including stress, sadness, and frustration, TherapyMoo empowers users to navigate their emotional experiences with confidence and resilience.
